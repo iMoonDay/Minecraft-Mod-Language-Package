@@ -1,0 +1,8 @@
+{
+    "reden.debugger.breakpoint.block_updated": "方块更新",
+    "reden.debugger.breakpoint.neighbor_changed": "邻块改变",
+    "reden.debugger.breakpoint.post_placement": "放置后",
+    "reden.debugger.breakpoint.comparator_update": "比较器更新",
+    "reden.debugger.breakpoint.block_update_other": "其他方块更新",
+    "reden.debugger.breakpoint.redstone_meter": "红石测量仪"
+}

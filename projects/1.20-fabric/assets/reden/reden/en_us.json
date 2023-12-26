@@ -1,0 +1,8 @@
+{
+    "reden.debugger.breakpoint.block_updated": "BlockUpdated",
+    "reden.debugger.breakpoint.neighbor_changed": "NeighborChanged",
+    "reden.debugger.breakpoint.post_placement": "PostPlacement",
+    "reden.debugger.breakpoint.comparator_update": "ComparatorUpdate",
+    "reden.debugger.breakpoint.block_update_other": "BlockUpdateOther",
+    "reden.debugger.breakpoint.redstone_meter": "RedstoneMeter"
+}
